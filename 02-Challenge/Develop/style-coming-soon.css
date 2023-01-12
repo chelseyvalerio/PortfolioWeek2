@@ -1,0 +1,8 @@
+* {
+    background-color: lightskyblue;
+}
+img {
+    flex: wrap;
+    height: 100%;
+    width: 100%;
+}

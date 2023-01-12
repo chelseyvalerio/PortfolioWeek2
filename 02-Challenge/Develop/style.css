@@ -1,0 +1,155 @@
+body {
+    background-color: slategrey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+section {
+    display: inline-block;
+    position: relative;
+    flex: wrap;
+    flex-direction: row;
+    text-align: center;
+    border-bottom: 10px double lightsteelblue;
+    border-width: 100%;
+    margin: 10px;
+}
+
+.header {
+    display: inline-block;
+    text-align: center;
+    font-size: x-large;
+    width: 100%;
+}
+
+.header-image {
+    float: center;
+    width: 350px;
+    height: 350px;
+    border-radius: 350px;
+    margin-bottom: 50px;
+    box-shadow: 0 8px 8px 0 black;
+}
+
+menu {
+    display: inline;
+    float: center;
+    margin: 50px;
+}
+menu li {
+    box-shadow: 0 8px 8px 0 black;
+}
+
+
+.header-navigation ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: white;
+    border: 5px double lightsteelblue;
+}
+
+li a {
+    text-decoration: none;
+    color: steelblue;
+}
+
+li :hover {
+    background-color: lightsteelblue;
+}
+
+
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+.personal-image {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border: 5px double lightsteelblue;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+.container img {
+    flex: 1 1 200px;
+    margin: 20px;
+}
+.text-descriptions {
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    flex: wrap;
+    border: 2px double lightsteelblue;
+    font-display: gray;
+    margin: 50px;
+    padding: 20px;
+}
+
+div {
+    position: relative;
+    margin: 5px;
+}
+
+.completed {
+    display: flex;
+    flex-direction: row;
+    flex: wrap;
+}
+
+.coming-soon {
+    display: inline;
+    flex: wrap;
+    justify-content: center;
+}
+
+
+.coming-soon-image {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border: 5px double lightsteelblue;
+    margin: 10px 0px 10px 0px;
+}
+
+h4 {
+    position: absolute;
+    display: flex;
+    bottom: 10px;
+    left: 16px;
+    font-size: x-large;
+    color: white;
+    font-weight: bolder;
+    border: double 5px lightsteelblue;
+    background-color: steelblue;
+    box-shadow: 0 8px 8px 0 black;
+    padding: 5px;
+}
+
+
+footer {
+    text-align: center;
+    margin: 10px;
+    background-position: 100%
+}
+
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    background-color: blue;
+}
