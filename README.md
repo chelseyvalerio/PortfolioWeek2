@@ -2,9 +2,14 @@
 
 Hello! Thank you for reviewing my portfolio. Within this assignment you will find various details about me as well as an interactive project portfolio displaying all projects I have personally developed to date. Additionally, within the below you will find the assignment's acceptance criteria and grading requirements. This assignment, although challenging at points, was a fun assignment to complete. I look forward to the rest of the course and improving upon my skills. Happy reviewing!
 
-[sitelink](index.html)
+[sitelink](https://chelseyvalerio.github.io/PortfolioWeek2/)
 
 ![site header screenshot](./Assets/screenshot.JPG)
+
+## Project 1 Update
+As of 2/15/2023 Project-1 Nutritional Recipe API Search Engine App has been added to portfolio
+[your-meals-your-way-app-link](https://agnellod.github.io/nutrition-recipies-/) 
+![](./Assets/chicken%20serach.JPG)
 
 
 
