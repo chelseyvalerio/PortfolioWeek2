@@ -22,7 +22,7 @@ section {
 }
 
 .header-image {
-    float: center;
+    align-content: center;
     width: 350px;
     height: 350px;
     border-radius: 350px;
